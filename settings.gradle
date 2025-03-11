@@ -1,0 +1,4 @@
+rootProject.name = 'logistics'
+include 'hub-service'
+include 'common-lib'
+
